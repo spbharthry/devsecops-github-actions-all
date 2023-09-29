@@ -1,4 +1,4 @@
-name: DevSecOps Demos End2End - Build code, run unit test, run SAST, SCA, DAST security scans
+name: DevSecOps Demo Tech Friday End2End - Build code, run unit test, run SAST, SCA, DAST security scans
 on: push
 
 jobs:
